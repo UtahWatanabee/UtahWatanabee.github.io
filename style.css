@@ -41,7 +41,7 @@
   width: 100%;
   height: 100%;
   display: flex;
-  background: url("Images/1 блок.jpg");
+  background: url("./Images/1 блок.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -61,7 +61,7 @@
 .about-container1 {
 	width: 49%;
 	height: 450px;
-	background: url("Images/img studio bg.jpg");
+	background: url("./Images/img studio bg.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 	align-items: center;
@@ -137,7 +137,7 @@
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  background: url("Images/livello 26.jpg");
+  background: url("./Images/livello 26.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -176,7 +176,7 @@
 
 .team-block1 {
 
-	background: url("Images/img bg.jpg");
+	background: url("./Images/img bg.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 	align-items: center;	
@@ -196,7 +196,7 @@
 .team-block2 {
 	width: 33%;
 	height: 400px;
-	background: url("Images/img-13.jpg");
+	background: url("./Images/img-13.jpg");
     background-repeat: no-repeat;
 	justify-content: space-around;
     background-size: 100% 100%;
@@ -275,7 +275,7 @@
 
 .team2-block1 {
 
-	background: url("Images/img-12.jpg");
+	background: url("./Images/img-12.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 	align-items: center;
@@ -374,7 +374,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: url("Images/img bg22.jpg");
+  background: url("./Images/img bg22.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   justify-content: center;
@@ -582,7 +582,7 @@
   width: 100%;
   height: 700px;
   display: flex;
-  background: url("Images/maps.jpg");
+  background: url("./Images/maps.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
